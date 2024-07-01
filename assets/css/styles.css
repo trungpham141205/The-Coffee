@@ -198,7 +198,7 @@ html{
     position: relative;
     margin-top: 46px;
     padding-top: 50%; /*bằng 50% tỉ lệ chiều ngang của chính nó*/
-    background: url("../img/slider_1/chicago.jpg") top center / cover no-repeat;
+    background: url("../img/slider_1/download.jpg") top center / cover no-repeat;
 }
 
 #slider .text-content{
